@@ -1,0 +1,19 @@
+#add-div1{
+    text-align: center;
+}
+#marque{
+    direction: right;
+    color: red;
+}
+#button{
+    background-color: yellowgreen; /* Green */
+    color: white;
+}
+#button1{
+    background-color: red; /* Green */
+    color: white;
+}
+.cop{
+    text-align: center;
+    color: blue;
+}
